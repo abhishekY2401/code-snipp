@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848729214234",
+    "project_id": "codesnippy-c26c0",
+    "storage_bucket": "codesnippy-c26c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848729214234:android:4021c4027cfb2e1b04b0a3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848729214234-02fk2hvqsjaev194eocl9b591nmr1j8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZpN5O8aPDaFa2hyg5GBbCpmxMPju29A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848729214234-02fk2hvqsjaev194eocl9b591nmr1j8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
